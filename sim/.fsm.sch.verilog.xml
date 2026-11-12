@@ -1,0 +1,20 @@
+<Command name="schRTLInfo"  delimiter="."  >
+<RTLBlock >
+<RTLInfo   name="state_q_0"  type="2"  fileName="../dut/top_cache_axi/src_v/dcache_core.v"  >
+    <Seg beginLine="700"  endLine="823"  />
+  </RTLInfo>
+ <Instance name="tb_top.u_dut.u_dcache.u_core"  />
+</RTLBlock>
+<RTLBlock >
+<RTLInfo   name="state_q_1"  type="2"  fileName="../dut/top_cache_axi/src_v/icache.v"  >
+    <Seg beginLine="444"  endLine="484"  />
+  </RTLInfo>
+ <Instance name="tb_top.u_dut.u_icache"  />
+</RTLBlock>
+<RTLBlock >
+<RTLInfo   name="user_verbosity_2"  type="2"  fileName="/home/cad/synopsys/vcs/vcs/W-2024.09-1/etc/uvm-1.2/verdi/uvm_custom_install_verdi_recorder.sv"  >
+    <Seg beginLine="47"  endLine="197"  />
+  </RTLInfo>
+ <Instance name="uvm_custom_install_verdi_recording"  />
+</RTLBlock>
+ </Command>
